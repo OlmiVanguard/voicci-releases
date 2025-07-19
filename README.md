@@ -1,9 +1,21 @@
 # Voicci Releases
 
-Public repository for Voicci app releases.
+Official releases of Voicci - AI-powered voice transcription for macOS.
 
-Main repository: [Private]
+## Latest Release
 
-## Download
+**[Download Voicci v1.0.8.5](https://github.com/OlmiVanguard/voicci-releases/releases/download/v1.0.8.5/Voicci-1.0.8.5.dmg)**
 
-[Download Latest Release](https://github.com/OlmiVanguard/voicci-releases/releases/latest)
+## All Releases
+
+View all releases on the [Releases page](https://github.com/OlmiVanguard/voicci-releases/releases).
+
+## About Voicci
+
+Voicci is a powerful macOS app that provides:
+- Real-time voice transcription
+- Multiple AI models (Whisper, Gemini)
+- Privacy-focused design
+- Native macOS integration
+
+Visit [voicci.com](https://voicci.com) for more information.
