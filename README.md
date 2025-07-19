@@ -4,7 +4,7 @@ Official releases of Voicci - AI-powered voice transcription for macOS.
 
 ## Latest Release
 
-**[Download Voicci v1.0.9](https://github.com/OlmiVanguard/voicci-releases/releases/download/v1.0.9/Voicci-1.0.9.dmg)**
+**[Download Voicci v1.0.13](https://github.com/OlmiVanguard/voicci-releases/releases/download/v1.0.13/Voicci-1.0.13.dmg)**
 
 ## All Releases
 
